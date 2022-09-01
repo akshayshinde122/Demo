@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-08-20T14:43:04 IST" name="Default suite" finished-at="2022-08-20T14:44:02 IST" duration-ms="58211">
+    <groups>
+    </groups>
+    <test started-at="2022-08-20T14:43:04 IST" name="Default test" finished-at="2022-08-20T14:44:02 IST" duration-ms="58211">
+      <class name="test.HomePageTest">
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:test.HomePageTest@4550bb58]" started-at="2022-08-20T14:43:04 IST" name="launchBrowser" finished-at="2022-08-20T14:43:09 IST" duration-ms="5455" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method signature="SearchStockAndClickAddToWatchlist()[pri:0, instance:test.HomePageTest@4550bb58]" started-at="2022-08-20T14:43:09 IST" name="SearchStockAndClickAddToWatchlist" finished-at="2022-08-20T14:43:13 IST" duration-ms="4093" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SearchStockAndClickAddToWatchlist -->
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:test.HomePageTest@4550bb58]" started-at="2022-08-20T14:43:13 IST" name="launchBrowser" finished-at="2022-08-20T14:43:17 IST" duration-ms="3504" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method signature="SearchStockAndClickBuy()[pri:0, instance:test.HomePageTest@4550bb58]" started-at="2022-08-20T14:43:17 IST" name="SearchStockAndClickBuy" finished-at="2022-08-20T14:43:20 IST" duration-ms="3203" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SearchStockAndClickBuy -->
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:test.HomePageTest@4550bb58]" started-at="2022-08-20T14:43:20 IST" name="launchBrowser" finished-at="2022-08-20T14:43:23 IST" duration-ms="3525" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method signature="SearchStockAndClickChart()[pri:0, instance:test.HomePageTest@4550bb58]" started-at="2022-08-20T14:43:23 IST" name="SearchStockAndClickChart" finished-at="2022-08-20T14:43:27 IST" duration-ms="3241" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SearchStockAndClickChart -->
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:test.HomePageTest@4550bb58]" started-at="2022-08-20T14:43:27 IST" name="launchBrowser" finished-at="2022-08-20T14:43:31 IST" duration-ms="3991" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method signature="SearchStockAndClickMarketDepth()[pri:0, instance:test.HomePageTest@4550bb58]" started-at="2022-08-20T14:43:31 IST" name="SearchStockAndClickMarketDepth" finished-at="2022-08-20T14:43:35 IST" duration-ms="3919" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SearchStockAndClickMarketDepth -->
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:test.HomePageTest@4550bb58]" started-at="2022-08-20T14:43:35 IST" name="launchBrowser" finished-at="2022-08-20T14:43:41 IST" duration-ms="6457" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method signature="SearchStockAndClickSell()[pri:0, instance:test.HomePageTest@4550bb58]" started-at="2022-08-20T14:43:41 IST" name="SearchStockAndClickSell" finished-at="2022-08-20T14:43:47 IST" duration-ms="5641" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SearchStockAndClickSell -->
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:test.HomePageTest@4550bb58]" started-at="2022-08-20T14:43:47 IST" name="launchBrowser" finished-at="2022-08-20T14:43:58 IST" duration-ms="11429" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method signature="SearchStockTest()[pri:0, instance:test.HomePageTest@4550bb58]" started-at="2022-08-20T14:43:58 IST" name="SearchStockTest" finished-at="2022-08-20T14:44:02 IST" duration-ms="3707" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SearchStockTest -->
+      </class> <!-- test.HomePageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
